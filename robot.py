@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 from qg_botsdk import BOT, Model   # 导入SDK核心类（BOT）、所有数据模型（Model）
 import requests
 import json
