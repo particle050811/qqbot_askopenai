@@ -74,3 +74,4 @@ def deliver(data: Model.MESSAGE):   # 创建接收消息事件的函数
 
 if __name__ == '__main__':
     bot.start()   # 开始运行机器人
+
