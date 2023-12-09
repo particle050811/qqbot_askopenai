@@ -48,7 +48,7 @@ def ask_openai(task,question):
 
 def get_task(taskname):
     # 打开文件
-    with open('./qqbot/'+taskname, 'r',encoding='utf-8') as file:
+    with open(taskname, 'r',encoding='utf-8') as file:
         # 读取多行内容
         lines = file.readlines()
 
