@@ -83,7 +83,6 @@ def deliver(data: Model.MESSAGE):   # 创建接收消息事件的函数
         ans='<@'+data.author.id+'>'
         ans=ans+ask_openai(task,data.treated_msg)
         data.reply(ans,message_reference_id=data.id)
-    print(ans)
 
 
 if __name__ == '__main__':
