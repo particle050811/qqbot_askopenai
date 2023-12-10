@@ -1,0 +1,592 @@
+[12-10 16:58:03] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 16:58:03] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 16:58:03] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 16:58:04] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 16:58:04] [INFO] 连接成功，机器人开始运行
+[12-10 16:58:04] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 16:58:45] [DEBUG] 心跳发送成功
+[12-10 16:59:20] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 16:59:20] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 16:59:20] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 16:59:20] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 16:59:21] [INFO] 连接成功，机器人开始运行
+[12-10 16:59:21] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 16:59:51] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 16:59:51] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 16:59:51] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 16:59:52] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 16:59:52] [INFO] 连接成功，机器人开始运行
+[12-10 16:59:52] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:00:33] [DEBUG] 心跳发送成功
+[12-10 17:01:15] [DEBUG] 心跳发送成功
+[12-10 17:01:56] [DEBUG] 心跳发送成功
+[12-10 17:02:03] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:02:03] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:02:03] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:02:03] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:02:04] [INFO] 连接成功，机器人开始运行
+[12-10 17:02:04] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:02:11] [ERROR] AttributeError("'event_class' object has no attribute 'user'")
+[12-10 17:02:11] [ERROR] [error:AttributeError("'event_class' object has no attribute 'user'")] File "d:\code\qqbot_askopenai\robot.py", line 74, in deliver
+[12-10 17:10:23] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:10:23] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:10:23] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:10:23] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:10:24] [INFO] 连接成功，机器人开始运行
+[12-10 17:10:24] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:10:30] [ERROR] TypeError("get_message_info() missing 2 required positional arguments: 'channel_id' and 'message_id'")
+[12-10 17:10:30] [ERROR] [error:TypeError("get_message_info() missing 2 required positional arguments: 'channel_id' and 'message_id'")] File "d:\code\qqbot_askopenai\robot.py", line 73, in deliver
+[12-10 17:11:05] [DEBUG] 心跳发送成功
+[12-10 17:11:46] [DEBUG] 心跳发送成功
+[12-10 17:12:27] [DEBUG] 心跳发送成功
+[12-10 17:13:09] [DEBUG] 心跳发送成功
+[12-10 17:13:29] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:13:29] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:13:29] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:13:29] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:13:30] [INFO] 连接成功，机器人开始运行
+[12-10 17:13:30] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:13:33] [WARNING] HTTP API(url:https://sandbox.api.sgroup.qq.com/channels/633302662/messages/16788377177958475271)调用错误[400]，详情：{"code":510000,"message":"MsgID invalid"}，trace_id：6f6615c792a5e1bf9ef1f57cbe1a0747
+[12-10 17:14:11] [DEBUG] 心跳发送成功
+[12-10 17:14:52] [DEBUG] 心跳发送成功
+[12-10 17:15:33] [DEBUG] 心跳发送成功
+[12-10 17:16:15] [DEBUG] 心跳发送成功
+[12-10 17:16:56] [DEBUG] 心跳发送成功
+[12-10 17:17:37] [DEBUG] 心跳发送成功
+[12-10 17:18:18] [DEBUG] 心跳发送成功
+[12-10 17:19:00] [DEBUG] 心跳发送成功
+[12-10 17:19:41] [DEBUG] 心跳发送成功
+[12-10 17:20:22] [DEBUG] 心跳发送成功
+[12-10 17:21:03] [DEBUG] 心跳发送成功
+[12-10 17:21:28] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:21:28] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:21:28] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:21:28] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:21:29] [INFO] 连接成功，机器人开始运行
+[12-10 17:21:29] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:22:10] [DEBUG] 心跳发送成功
+[12-10 17:22:51] [DEBUG] 心跳发送成功
+[12-10 17:23:32] [DEBUG] 心跳发送成功
+[12-10 17:23:37] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:23:37] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:23:37] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:23:37] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:23:37] [INFO] 连接成功，机器人开始运行
+[12-10 17:23:38] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:23:41] [ERROR] TypeError("'object_class' object is not subscriptable")
+[12-10 17:23:41] [ERROR] [error:TypeError("'object_class' object is not subscriptable")] File "d:\code\qqbot_askopenai\robot.py", line 75, in deliver
+[12-10 17:24:08] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:24:08] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:24:08] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:24:09] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:24:09] [INFO] 连接成功，机器人开始运行
+[12-10 17:24:10] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:24:14] [ERROR] TypeError('the JSON object must be str, bytes or bytearray, not object_class')
+[12-10 17:24:14] [ERROR] [error:TypeError('the JSON object must be str, bytes or bytearray, not object_class')] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\json\__init__.py", line 339, in loads
+[12-10 17:24:50] [DEBUG] 心跳发送成功
+[12-10 17:25:45] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:25:45] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:25:45] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:25:45] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:25:45] [INFO] 连接成功，机器人开始运行
+[12-10 17:25:46] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:26:27] [DEBUG] 心跳发送成功
+[12-10 17:27:08] [DEBUG] 心跳发送成功
+[12-10 17:27:22] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:27:22] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:27:22] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:27:22] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:27:23] [INFO] 连接成功，机器人开始运行
+[12-10 17:27:23] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:27:26] [ERROR] TypeError('the JSON object must be str, bytes or bytearray, not object_class')
+[12-10 17:27:26] [ERROR] [error:TypeError('the JSON object must be str, bytes or bytearray, not object_class')] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\json\__init__.py", line 339, in loads
+[12-10 17:28:04] [DEBUG] 心跳发送成功
+[12-10 17:28:45] [DEBUG] 心跳发送成功
+[12-10 17:28:48] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:28:48] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:28:48] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:28:48] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:28:49] [INFO] 连接成功，机器人开始运行
+[12-10 17:28:49] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:28:52] [ERROR] TypeError("'object_class' object is not subscriptable")
+[12-10 17:28:52] [ERROR] [error:TypeError("'object_class' object is not subscriptable")] File "d:\code\qqbot_askopenai\robot.py", line 76, in deliver
+[12-10 17:29:30] [DEBUG] 心跳发送成功
+[12-10 17:29:38] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:29:38] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:29:38] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:29:38] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:29:38] [INFO] 连接成功，机器人开始运行
+[12-10 17:29:39] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:29:42] [ERROR] TypeError('the JSON object must be str, bytes or bytearray, not object_class')
+[12-10 17:29:42] [ERROR] [error:TypeError('the JSON object must be str, bytes or bytearray, not object_class')] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\json\__init__.py", line 339, in loads
+[12-10 17:30:20] [DEBUG] 心跳发送成功
+[12-10 17:31:01] [DEBUG] 心跳发送成功
+[12-10 17:31:23] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:31:23] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:31:23] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:31:23] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:31:24] [INFO] 连接成功，机器人开始运行
+[12-10 17:31:24] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:31:26] [ERROR] TypeError("'object_class' object is not subscriptable")
+[12-10 17:31:26] [ERROR] [error:TypeError("'object_class' object is not subscriptable")] File "d:\code\qqbot_askopenai\robot.py", line 75, in deliver
+[12-10 17:31:48] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:31:48] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:31:48] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:31:49] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:31:49] [INFO] 连接成功，机器人开始运行
+[12-10 17:31:50] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:32:31] [DEBUG] 心跳发送成功
+[12-10 17:33:07] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:33:07] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:33:07] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:33:07] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:33:07] [INFO] 连接成功，机器人开始运行
+[12-10 17:33:08] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:33:10] [ERROR] TypeError("'object_class' object is not subscriptable")
+[12-10 17:33:10] [ERROR] [error:TypeError("'object_class' object is not subscriptable")] File "d:\code\qqbot_askopenai\robot.py", line 75, in deliver
+[12-10 17:33:49] [DEBUG] 心跳发送成功
+[12-10 17:34:30] [DEBUG] 心跳发送成功
+[12-10 17:35:09] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:35:09] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:35:09] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:35:10] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:35:10] [INFO] 连接成功，机器人开始运行
+[12-10 17:35:10] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:35:12] [ERROR] TypeError('the JSON object must be str, bytes or bytearray, not object_class')
+[12-10 17:35:12] [ERROR] [error:TypeError('the JSON object must be str, bytes or bytearray, not object_class')] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\json\__init__.py", line 339, in loads
+[12-10 17:35:51] [DEBUG] 心跳发送成功
+[12-10 17:35:56] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:35:56] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:35:56] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:35:57] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:35:57] [INFO] 连接成功，机器人开始运行
+[12-10 17:35:57] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:36:01] [ERROR] TypeError('string indices must be integers')
+[12-10 17:36:01] [ERROR] [error:TypeError('string indices must be integers')] File "d:\code\qqbot_askopenai\robot.py", line 83, in deliver
+[12-10 17:36:38] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:36:38] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:36:38] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:36:38] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:36:39] [INFO] 连接成功，机器人开始运行
+[12-10 17:36:39] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:37:20] [DEBUG] 心跳发送成功
+[12-10 17:38:01] [DEBUG] 心跳发送成功
+[12-10 17:38:43] [DEBUG] 心跳发送成功
+[12-10 17:39:15] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:39:15] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:39:15] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:39:15] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:39:16] [INFO] 连接成功，机器人开始运行
+[12-10 17:39:16] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:39:18] [ERROR] AttributeError("'object_class' object has no attribute 'author'")
+[12-10 17:39:18] [ERROR] [error:AttributeError("'object_class' object has no attribute 'author'")] File "d:\code\qqbot_askopenai\robot.py", line 75, in deliver
+[12-10 17:39:57] [DEBUG] 心跳发送成功
+[12-10 17:40:38] [DEBUG] 心跳发送成功
+[12-10 17:41:20] [DEBUG] 心跳发送成功
+[12-10 17:42:01] [DEBUG] 心跳发送成功
+[12-10 17:42:31] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:42:31] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:42:31] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:42:31] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:42:31] [INFO] 连接成功，机器人开始运行
+[12-10 17:42:32] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:42:38] [ERROR] AttributeError("'object_class' object has no attribute 'author'")
+[12-10 17:42:38] [ERROR] [error:AttributeError("'object_class' object has no attribute 'author'")] File "d:\code\qqbot_askopenai\robot.py", line 75, in deliver
+[12-10 17:43:13] [DEBUG] 心跳发送成功
+[12-10 17:43:28] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:43:28] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:43:28] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:43:28] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:43:28] [INFO] 连接成功，机器人开始运行
+[12-10 17:43:29] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:43:31] [ERROR] AttributeError("'object_class' object has no attribute 'author'")
+[12-10 17:43:31] [ERROR] [error:AttributeError("'object_class' object has no attribute 'author'")] File "d:\code\qqbot_askopenai\robot.py", line 75, in deliver
+[12-10 17:44:10] [DEBUG] 心跳发送成功
+[12-10 17:44:51] [DEBUG] 心跳发送成功
+[12-10 17:45:32] [DEBUG] 心跳发送成功
+[12-10 17:45:43] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:45:43] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:45:43] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:45:43] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:45:44] [INFO] 连接成功，机器人开始运行
+[12-10 17:45:44] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:46:25] [DEBUG] 心跳发送成功
+[12-10 17:47:06] [DEBUG] 心跳发送成功
+[12-10 17:47:47] [DEBUG] 心跳发送成功
+[12-10 17:47:55] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:47:55] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:47:55] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:47:55] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:47:55] [INFO] 连接成功，机器人开始运行
+[12-10 17:47:56] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:48:37] [DEBUG] 心跳发送成功
+[12-10 17:49:18] [DEBUG] 心跳发送成功
+[12-10 17:49:37] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:49:37] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:49:37] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:49:38] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:49:38] [INFO] 连接成功，机器人开始运行
+[12-10 17:49:39] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:50:05] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:50:05] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:50:05] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:50:05] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:50:06] [INFO] 连接成功，机器人开始运行
+[12-10 17:50:06] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:50:47] [DEBUG] 心跳发送成功
+[12-10 17:51:28] [DEBUG] 心跳发送成功
+[12-10 17:51:43] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:51:43] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:51:43] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:51:43] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:51:43] [INFO] 连接成功，机器人开始运行
+[12-10 17:51:44] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:51:47] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-10 17:51:47] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-10 17:52:25] [DEBUG] 心跳发送成功
+[12-10 17:53:06] [DEBUG] 心跳发送成功
+[12-10 17:53:47] [DEBUG] 心跳发送成功
+[12-10 17:54:29] [DEBUG] 心跳发送成功
+[12-10 17:55:10] [DEBUG] 心跳发送成功
+[12-10 17:55:51] [DEBUG] 心跳发送成功
+[12-10 17:56:47] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:56:47] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:56:47] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:56:47] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:56:48] [INFO] 连接成功，机器人开始运行
+[12-10 17:56:48] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:56:54] [ERROR] NameError("name 'bot_id' is not defined")
+[12-10 17:56:54] [ERROR] [error:NameError("name 'bot_id' is not defined")] File "d:\code\qqbot_askopenai\robot.py", line 73, in deliver
+[12-10 17:57:07] [ERROR] NameError("name 'bot_id' is not defined")
+[12-10 17:57:07] [ERROR] [error:NameError("name 'bot_id' is not defined")] File "d:\code\qqbot_askopenai\robot.py", line 73, in deliver
+[12-10 17:57:36] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 17:57:36] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 17:57:36] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 17:57:36] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 17:57:37] [INFO] 连接成功，机器人开始运行
+[12-10 17:57:37] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 17:58:18] [DEBUG] 心跳发送成功
+[12-10 17:58:59] [DEBUG] 心跳发送成功
+[12-10 17:59:40] [DEBUG] 心跳发送成功
+[12-10 18:00:22] [DEBUG] 心跳发送成功
+[12-10 18:01:03] [DEBUG] 心跳发送成功
+[12-10 18:01:44] [DEBUG] 心跳发送成功
+[12-10 18:02:25] [DEBUG] 心跳发送成功
+[12-10 18:03:07] [DEBUG] 心跳发送成功
+[12-10 18:03:48] [DEBUG] 心跳发送成功
+[12-10 18:04:29] [DEBUG] 心跳发送成功
+[12-10 18:05:11] [DEBUG] 心跳发送成功
+[12-10 18:05:52] [DEBUG] 心跳发送成功
+[12-10 18:06:33] [DEBUG] 心跳发送成功
+[12-10 18:06:44] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 18:06:44] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 18:06:44] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 18:06:45] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 18:06:45] [INFO] 连接成功，机器人开始运行
+[12-10 18:06:45] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 18:06:49] [ERROR] AttributeError("'property' object has no attribute 'id'")
+[12-10 18:06:49] [ERROR] [error:AttributeError("'property' object has no attribute 'id'")] File "d:\code\qqbot_askopenai\robot.py", line 73, in deliver
+[12-10 18:07:00] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 18:07:00] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 18:07:00] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 18:07:00] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 18:07:01] [INFO] 连接成功，机器人开始运行
+[12-10 18:07:01] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 18:07:04] [ERROR] TypeError("'in <string>' requires string as left operand, not property")
+[12-10 18:07:04] [ERROR] [error:TypeError("'in <string>' requires string as left operand, not property")] File "d:\code\qqbot_askopenai\robot.py", line 73, in deliver
+[12-10 18:07:42] [DEBUG] 心跳发送成功
+[12-10 18:08:23] [DEBUG] 心跳发送成功
+[12-10 18:09:04] [DEBUG] 心跳发送成功
+[12-10 18:09:19] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 18:09:19] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 18:09:19] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 18:09:20] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 18:09:20] [INFO] 连接成功，机器人开始运行
+[12-10 18:09:20] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 18:10:01] [DEBUG] 心跳发送成功
+[12-10 18:10:43] [DEBUG] 心跳发送成功
+[12-10 18:11:24] [DEBUG] 心跳发送成功
+[12-10 18:11:49] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 18:11:49] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 18:11:49] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 18:11:58] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 18:11:59] [INFO] 连接成功，机器人开始运行
+[12-10 18:11:59] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 18:12:10] [ERROR] DeprecationWarning('SDK版本>=2.3.2后已遗弃get_bot_id()的api，改为BOT.robot.id')
+[12-10 18:12:10] [ERROR] [error:DeprecationWarning('SDK版本>=2.3.2后已遗弃get_bot_id()的api，改为BOT.robot.id')] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\qg_botsdk\api.py", line 88, in get_bot_id
+[12-10 18:12:40] [DEBUG] 心跳发送成功
+[12-10 18:13:21] [DEBUG] 心跳发送成功
+[12-10 18:14:02] [DEBUG] 心跳发送成功
+[12-10 18:14:07] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 18:14:07] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 18:14:07] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 18:14:07] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 18:14:07] [INFO] 连接成功，机器人开始运行
+[12-10 18:14:08] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 18:14:21] [ERROR] AttributeError("'property' object has no attribute 'id'")
+[12-10 18:14:21] [ERROR] [error:AttributeError("'property' object has no attribute 'id'")] File "d:\code\qqbot_askopenai\robot.py", line 73, in deliver
+[12-10 18:14:49] [DEBUG] 心跳发送成功
+[12-10 18:15:30] [DEBUG] 心跳发送成功
+[12-10 18:16:11] [DEBUG] 心跳发送成功
+[12-10 18:16:52] [DEBUG] 心跳发送成功
+[12-10 18:17:34] [DEBUG] 心跳发送成功
+[12-10 18:18:15] [DEBUG] 心跳发送成功
+[12-10 18:18:56] [DEBUG] 心跳发送成功
+[12-10 20:12:37] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:12:37] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:12:37] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11001, 'getaddrinfo failed'))
+[12-10 20:12:37] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11001, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:12:40] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:12:40] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:12:40] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:12:43] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:12:43] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:12:43] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:12:46] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:12:46] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:12:46] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:12:49] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:12:49] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:12:49] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:12:52] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:12:52] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:12:52] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:12:55] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:12:55] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:12:55] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:12:58] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:12:58] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:12:58] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:13:01] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:13:01] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:13:01] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:13:04] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:13:04] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:13:04] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:13:07] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:13:07] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:13:07] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:13:10] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:13:10] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:13:10] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:13:13] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:13:13] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:13:13] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:13:16] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:13:16] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:13:16] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:13:19] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:13:19] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:13:19] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:13:22] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:13:22] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:13:22] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:13:25] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:13:25] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:13:25] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:13:28] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:13:28] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:13:28] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:13:31] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:13:31] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:13:31] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:13:34] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:13:34] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:13:34] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:13:37] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:13:37] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:13:37] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:13:40] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:13:40] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:13:40] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:13:43] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:13:43] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:13:43] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:13:46] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 20:13:46] [ERROR] ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))
+[12-10 20:13:46] [ERROR] [error:ClientConnectorError(ConnectionKey(host='sandbox.api.sgroup.qq.com', port=443, is_ssl=True, ssl=<ssl.SSLContext object at 0x0000018EBD205EC0>, proxy=None, proxy_auth=None, proxy_headers_hash=None), gaierror(11004, 'getaddrinfo failed'))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\aiohttp\connector.py", line 1187, in _create_direct_connection
+[12-10 20:15:38] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 20:15:38] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 20:15:38] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 20:15:38] [INFO] Session Manager结束中，正在保存数据...
+[12-10 20:16:05] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 20:16:05] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 20:16:05] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 20:16:05] [INFO] Session Manager结束中，正在保存数据...
+[12-10 20:17:07] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 20:17:07] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 20:17:07] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 20:17:07] [INFO] Session Manager结束中，正在保存数据...
+[12-10 20:18:55] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 20:18:55] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 20:18:55] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 20:18:55] [INFO] Session Manager结束中，正在保存数据...
+[12-10 20:19:30] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 20:19:30] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 20:19:30] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 20:19:30] [INFO] Session Manager结束中，正在保存数据...
+[12-10 20:19:43] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 20:19:43] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 20:19:43] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 20:19:43] [INFO] Session Manager结束中，正在保存数据...
+[12-10 20:20:20] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 20:20:20] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 20:20:20] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 20:20:21] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 20:20:22] [INFO] 连接成功，机器人开始运行
+[12-10 20:20:23] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 20:20:39] [ERROR] TypeError("'in <string>' requires string as left operand, not function")
+[12-10 20:20:39] [ERROR] [error:TypeError("'in <string>' requires string as left operand, not function")] File "d:\code\qqbot_askopenai\robot.py", line 73, in deliver
+[12-10 20:21:03] [DEBUG] 心跳发送成功
+[12-10 20:21:45] [DEBUG] 心跳发送成功
+[12-10 20:22:05] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 20:22:05] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 20:22:05] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 20:22:05] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 20:22:06] [INFO] 连接成功，机器人开始运行
+[12-10 20:22:06] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 20:22:47] [DEBUG] 心跳发送成功
+[12-10 20:22:56] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 20:22:56] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 20:22:56] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 20:22:56] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 20:22:57] [INFO] 连接成功，机器人开始运行
+[12-10 20:22:57] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 20:23:20] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 20:23:20] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 20:23:20] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 20:23:20] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 20:23:21] [INFO] 连接成功，机器人开始运行
+[12-10 20:23:21] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 20:24:02] [DEBUG] 心跳发送成功
+[12-10 20:24:40] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 20:24:40] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 20:24:40] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 20:24:41] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 20:24:41] [INFO] 连接成功，机器人开始运行
+[12-10 20:24:41] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 20:25:22] [DEBUG] 心跳发送成功
+[12-10 20:25:41] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 20:25:41] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 20:25:41] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 20:25:41] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 20:25:42] [INFO] 连接成功，机器人开始运行
+[12-10 20:25:42] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 20:26:23] [DEBUG] 心跳发送成功
+[12-10 20:27:04] [DEBUG] 心跳发送成功
+[12-10 20:27:46] [DEBUG] 心跳发送成功
+[12-10 20:28:27] [DEBUG] 心跳发送成功
+[12-10 20:29:08] [DEBUG] 心跳发送成功
+[12-10 20:29:49] [DEBUG] 心跳发送成功
+[12-10 20:30:31] [DEBUG] 心跳发送成功
+[12-10 20:31:12] [DEBUG] 心跳发送成功
+[12-10 20:31:53] [DEBUG] 心跳发送成功
+[12-10 20:32:34] [DEBUG] 心跳发送成功
+[12-10 20:33:58] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 20:33:58] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 20:33:58] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 20:33:59] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 20:33:59] [INFO] 连接成功，机器人开始运行
+[12-10 20:33:59] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 20:34:17] [ERROR] AttributeError("'event_class' object has no attribute 'mentions'")
+[12-10 20:34:17] [ERROR] [error:AttributeError("'event_class' object has no attribute 'mentions'")] File "d:\code\qqbot_askopenai\robot.py", line 81, in deliver
+[12-10 20:34:40] [DEBUG] 心跳发送成功
+[12-10 20:34:45] [ERROR] AttributeError("'event_class' object has no attribute 'mentions'")
+[12-10 20:34:45] [ERROR] [error:AttributeError("'event_class' object has no attribute 'mentions'")] File "d:\code\qqbot_askopenai\robot.py", line 81, in deliver
+[12-10 20:35:22] [DEBUG] 心跳发送成功
+[12-10 20:36:03] [DEBUG] 心跳发送成功
+[12-10 20:36:44] [DEBUG] 心跳发送成功
+[12-10 20:37:25] [DEBUG] 心跳发送成功
+[12-10 20:37:36] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 20:37:36] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 20:37:36] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 20:37:37] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 20:37:37] [INFO] 连接成功，机器人开始运行
+[12-10 20:37:37] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 20:38:04] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-10 20:38:04] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-10 20:38:18] [DEBUG] 心跳发送成功
+[12-10 20:38:30] [ERROR] TypeError("reply() got an unexpected keyword argument 'message_reference'")
+[12-10 20:38:30] [ERROR] [error:TypeError("reply() got an unexpected keyword argument 'message_reference'")] File "d:\code\qqbot_askopenai\robot.py", line 85, in deliver
+[12-10 20:39:00] [DEBUG] 心跳发送成功
+[12-10 20:39:41] [DEBUG] 心跳发送成功
+[12-10 20:39:44] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 20:39:44] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 20:39:44] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 20:39:44] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 20:39:44] [INFO] 连接成功，机器人开始运行
+[12-10 20:39:45] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 20:40:26] [DEBUG] 心跳发送成功
+[12-10 20:41:07] [DEBUG] 心跳发送成功
+[12-10 20:41:48] [DEBUG] 心跳发送成功
+[12-10 20:42:30] [DEBUG] 心跳发送成功
+[12-10 20:43:11] [DEBUG] 心跳发送成功
+[12-10 20:43:52] [DEBUG] 心跳发送成功
+[12-10 20:44:33] [DEBUG] 心跳发送成功
+[12-10 20:45:15] [DEBUG] 心跳发送成功
+[12-10 20:45:56] [DEBUG] 心跳发送成功
+[12-10 20:46:37] [DEBUG] 心跳发送成功
+[12-10 20:47:18] [DEBUG] 心跳发送成功
+[12-10 20:48:00] [DEBUG] 心跳发送成功
+[12-10 20:48:41] [DEBUG] 心跳发送成功
+[12-10 20:49:22] [DEBUG] 心跳发送成功
+[12-10 20:50:03] [DEBUG] 心跳发送成功
+[12-10 20:50:45] [DEBUG] 心跳发送成功
+[12-10 20:51:26] [DEBUG] 心跳发送成功
+[12-10 20:52:07] [DEBUG] 心跳发送成功
+[12-10 20:52:48] [DEBUG] 心跳发送成功
+[12-10 20:53:30] [DEBUG] 心跳发送成功
+[12-10 20:54:11] [DEBUG] 心跳发送成功
+[12-10 20:54:52] [DEBUG] 心跳发送成功
+[12-10 20:55:33] [DEBUG] 心跳发送成功
+[12-10 20:56:15] [DEBUG] 心跳发送成功
+[12-10 20:56:56] [DEBUG] 心跳发送成功
+[12-10 20:57:37] [DEBUG] 心跳发送成功
+[12-10 20:58:18] [DEBUG] 心跳发送成功
+[12-10 20:59:00] [DEBUG] 心跳发送成功
+[12-10 20:59:41] [DEBUG] 心跳发送成功
+[12-10 21:00:22] [DEBUG] 心跳发送成功
+[12-10 21:01:03] [DEBUG] 心跳发送成功
+[12-10 21:01:45] [DEBUG] 心跳发送成功
+[12-10 21:02:26] [DEBUG] 心跳发送成功
+[12-10 21:03:07] [DEBUG] 心跳发送成功
+[12-10 21:03:48] [DEBUG] 心跳发送成功
+[12-10 21:04:30] [DEBUG] 心跳发送成功
+[12-10 21:05:11] [DEBUG] 心跳发送成功
+[12-10 21:05:52] [DEBUG] 心跳发送成功
+[12-10 21:06:33] [DEBUG] 心跳发送成功
+[12-10 21:07:15] [DEBUG] 心跳发送成功
+[12-10 21:07:56] [DEBUG] 心跳发送成功
+[12-10 21:08:37] [DEBUG] 心跳发送成功
+[12-10 21:09:18] [DEBUG] 心跳发送成功
+[12-10 21:09:44] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-10 21:09:45] [INFO] 重连成功，机器人继续运行
+[12-10 21:10:26] [DEBUG] 心跳发送成功
+[12-10 21:11:07] [DEBUG] 心跳发送成功
+[12-10 21:11:49] [DEBUG] 心跳发送成功
+[12-10 21:12:30] [DEBUG] 心跳发送成功
+[12-10 21:13:11] [DEBUG] 心跳发送成功
+[12-10 21:13:52] [DEBUG] 心跳发送成功
+[12-10 21:14:34] [DEBUG] 心跳发送成功
+[12-10 21:15:15] [DEBUG] 心跳发送成功
+[12-10 21:15:56] [DEBUG] 心跳发送成功
+[12-10 21:16:37] [DEBUG] 心跳发送成功
+[12-10 21:17:19] [DEBUG] 心跳发送成功
+[12-10 21:18:00] [DEBUG] 心跳发送成功
+[12-10 21:18:22] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 21:18:22] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 21:18:22] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 21:18:23] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 21:18:23] [INFO] 连接成功，机器人开始运行
+[12-10 21:18:23] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 21:19:04] [DEBUG] 心跳发送成功
+[12-10 21:19:32] [ERROR] ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))
+[12-10 21:19:32] [ERROR] [error:ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 501, in send
+[12-10 21:19:45] [DEBUG] 心跳发送成功
+[12-10 21:19:58] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-10 21:19:58] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-10 21:19:58] [INFO] 消息（所有消息）接收函数订阅成功
+[12-10 21:19:58] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-10 21:19:58] [INFO] 连接成功，机器人开始运行
+[12-10 21:19:59] [INFO] 机器人频道用户ID：16339539897453438804
+[12-10 21:20:40] [DEBUG] 心跳发送成功

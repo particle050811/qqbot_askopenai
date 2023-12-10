@@ -58,6 +58,17 @@ def get_task(taskname):
         # 打印结果
         return merged_line
 
+def is_at(users):
+    x=bot.api.get_bot_info().data.id
+    for i in users:
+        if (x==i.id):
+            return True
+    return False
+
+
+
+
+
 bot = BOT(bot_id='102070552', bot_token='qHAvc3v8Me2XvIdspk4MgWPcEcAsN2A3', is_private=True, is_sandbox=True)   # 实例化SDK核心类
 
 
@@ -65,13 +76,15 @@ bot = BOT(bot_id='102070552', bot_token='qHAvc3v8Me2XvIdspk4MgWPcEcAsN2A3', is_p
 
 @bot.bind_msg()   # 绑定接收消息事件的函数
 def deliver(data: Model.MESSAGE):   # 创建接收消息事件的函数
-    #if '你好' in data.treated_msg:   # 判断消息是否存在特定内容
-    #    data.reply('你好，世界')   # 发送被动回复（带message_id直接reply回复）
-        # 如需使用如 Embed 等消息模板，可传入相应结构体， 如：
-        # data.reply(ApiModel.MessageEmbed(title="你好", content="世界"))
     #task=get_task('readme.txt')
-    task=get_task('reply.txt')
-    data.reply(ask_openai(task,data.treated_msg))
+
+    if (is_at(data.mentions)):
+        task=get_task('reply.txt')
+        ans='<@'+data.author.id+'>'
+        ans=ans+ask_openai(task,data.treated_msg)
+        data.reply(ans,message_reference_id=data.id)
+    print(ans)
+
 
 if __name__ == '__main__':
     bot.start()   # 开始运行机器人
