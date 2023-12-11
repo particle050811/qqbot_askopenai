@@ -22,3 +22,387 @@
 [12-11 11:02:10] [DEBUG] 心跳发送成功
 [12-11 11:02:51] [DEBUG] 心跳发送成功
 [12-11 11:03:37] [DEBUG] 心跳发送成功
+[12-11 21:24:15] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 21:24:15] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 21:24:15] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 21:24:15] [INFO] 审核事件订阅成功
+[12-11 21:24:15] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 21:24:16] [INFO] 连接成功，机器人开始运行
+[12-11 21:24:16] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 21:24:18] [ERROR] AttributeError("'event_class' object has no attribute 'mentions'")
+[12-11 21:24:18] [ERROR] [error:AttributeError("'event_class' object has no attribute 'mentions'")] File "d:\code\qqbot_askopenai\robot.py", line 81, in deliver
+[12-11 21:24:57] [DEBUG] 心跳发送成功
+[12-11 21:25:38] [DEBUG] 心跳发送成功
+[12-11 21:26:19] [DEBUG] 心跳发送成功
+[12-11 21:27:01] [DEBUG] 心跳发送成功
+[12-11 21:27:42] [DEBUG] 心跳发送成功
+[12-11 21:28:23] [DEBUG] 心跳发送成功
+[12-11 21:29:04] [DEBUG] 心跳发送成功
+[12-11 21:29:46] [DEBUG] 心跳发送成功
+[12-11 21:30:27] [DEBUG] 心跳发送成功
+[12-11 21:31:08] [DEBUG] 心跳发送成功
+[12-11 21:31:49] [DEBUG] 心跳发送成功
+[12-11 21:32:31] [DEBUG] 心跳发送成功
+[12-11 21:33:12] [DEBUG] 心跳发送成功
+[12-11 21:33:53] [DEBUG] 心跳发送成功
+[12-11 21:34:34] [DEBUG] 心跳发送成功
+[12-11 21:35:16] [DEBUG] 心跳发送成功
+[12-11 21:35:57] [DEBUG] 心跳发送成功
+[12-11 21:36:38] [DEBUG] 心跳发送成功
+[12-11 21:37:20] [DEBUG] 心跳发送成功
+[12-11 21:38:01] [DEBUG] 心跳发送成功
+[12-11 21:38:42] [DEBUG] 心跳发送成功
+[12-11 21:39:23] [DEBUG] 心跳发送成功
+[12-11 21:40:05] [DEBUG] 心跳发送成功
+[12-11 21:40:46] [DEBUG] 心跳发送成功
+[12-11 21:41:27] [DEBUG] 心跳发送成功
+[12-11 21:42:08] [DEBUG] 心跳发送成功
+[12-11 21:42:50] [DEBUG] 心跳发送成功
+[12-11 21:43:31] [DEBUG] 心跳发送成功
+[12-11 21:44:12] [DEBUG] 心跳发送成功
+[12-11 21:44:53] [DEBUG] 心跳发送成功
+[12-11 21:45:35] [DEBUG] 心跳发送成功
+[12-11 21:46:16] [DEBUG] 心跳发送成功
+[12-11 21:46:57] [DEBUG] 心跳发送成功
+[12-11 21:47:38] [DEBUG] 心跳发送成功
+[12-11 21:48:20] [DEBUG] 心跳发送成功
+[12-11 21:49:01] [DEBUG] 心跳发送成功
+[12-11 21:49:42] [DEBUG] 心跳发送成功
+[12-11 21:50:23] [DEBUG] 心跳发送成功
+[12-11 21:51:05] [DEBUG] 心跳发送成功
+[12-11 21:51:46] [DEBUG] 心跳发送成功
+[12-11 21:52:27] [DEBUG] 心跳发送成功
+[12-11 21:53:08] [DEBUG] 心跳发送成功
+[12-11 21:53:50] [DEBUG] 心跳发送成功
+[12-11 21:54:15] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-11 21:54:16] [INFO] 重连成功，机器人继续运行
+[12-11 22:03:28] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 22:03:28] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 22:03:28] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 22:03:28] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 22:03:29] [INFO] 连接成功，机器人开始运行
+[12-11 22:03:29] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 22:03:40] [ERROR] AttributeError("'event_class' object has no attribute 'mentions'")
+[12-11 22:03:40] [ERROR] [error:AttributeError("'event_class' object has no attribute 'mentions'")] File "d:\code\qqbot_askopenai\robot.py", line 85, in deliver
+[12-11 22:03:54] [ERROR] AttributeError("'event_class' object has no attribute 'mentions'")
+[12-11 22:03:54] [ERROR] [error:AttributeError("'event_class' object has no attribute 'mentions'")] File "d:\code\qqbot_askopenai\robot.py", line 85, in deliver
+[12-11 22:04:10] [DEBUG] 心跳发送成功
+[12-11 22:04:15] [ERROR] AttributeError("'event_class' object has no attribute 'mentions'")
+[12-11 22:04:15] [ERROR] [error:AttributeError("'event_class' object has no attribute 'mentions'")] File "d:\code\qqbot_askopenai\robot.py", line 85, in deliver
+[12-11 22:04:51] [DEBUG] 心跳发送成功
+[12-11 22:05:18] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 22:05:18] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 22:05:18] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 22:05:18] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 22:05:18] [INFO] 连接成功，机器人开始运行
+[12-11 22:05:19] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 22:05:39] [ERROR] AttributeError("'event_class' object has no attribute 'mentions'")
+[12-11 22:05:39] [ERROR] [error:AttributeError("'event_class' object has no attribute 'mentions'")] File "d:\code\qqbot_askopenai\robot.py", line 87, in deliver
+[12-11 22:06:00] [DEBUG] 心跳发送成功
+[12-11 22:06:41] [DEBUG] 心跳发送成功
+[12-11 22:07:22] [DEBUG] 心跳发送成功
+[12-11 22:08:04] [DEBUG] 心跳发送成功
+[12-11 22:11:46] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 22:11:46] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 22:11:46] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 22:11:46] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 22:11:47] [INFO] 连接成功，机器人开始运行
+[12-11 22:11:47] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 22:11:56] [ERROR] AttributeError("'event_class' object has no attribute 'mentions'")
+[12-11 22:11:56] [ERROR] [error:AttributeError("'event_class' object has no attribute 'mentions'")] File "d:\code\qqbot_askopenai\robot.py", line 87, in deliver
+[12-11 22:12:28] [DEBUG] 心跳发送成功
+[12-11 22:13:09] [DEBUG] 心跳发送成功
+[12-11 22:13:51] [DEBUG] 心跳发送成功
+[12-11 22:14:32] [DEBUG] 心跳发送成功
+[12-11 22:14:35] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 22:14:35] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 22:14:35] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 22:14:35] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 22:14:35] [INFO] 连接成功，机器人开始运行
+[12-11 22:14:36] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 22:14:42] [ERROR] AttributeError("'event_class' object has no attribute 'mentions'")
+[12-11 22:14:42] [ERROR] [error:AttributeError("'event_class' object has no attribute 'mentions'")] File "d:\code\qqbot_askopenai\robot.py", line 87, in deliver
+[12-11 22:15:17] [DEBUG] 心跳发送成功
+[12-11 22:15:58] [DEBUG] 心跳发送成功
+[12-11 22:16:39] [DEBUG] 心跳发送成功
+[12-11 22:17:21] [DEBUG] 心跳发送成功
+[12-11 22:18:02] [DEBUG] 心跳发送成功
+[12-11 22:18:15] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 22:18:15] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 22:18:15] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 22:18:15] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 22:18:15] [INFO] 连接成功，机器人开始运行
+[12-11 22:18:16] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 22:18:43] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 22:18:43] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 22:18:43] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 22:18:44] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 22:18:44] [INFO] 连接成功，机器人开始运行
+[12-11 22:18:45] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 22:19:25] [DEBUG] 心跳发送成功
+[12-11 22:20:07] [DEBUG] 心跳发送成功
+[12-11 22:20:48] [DEBUG] 心跳发送成功
+[12-11 22:21:29] [DEBUG] 心跳发送成功
+[12-11 22:22:10] [DEBUG] 心跳发送成功
+[12-11 22:22:14] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-11 22:22:14] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-11 22:22:53] [DEBUG] 心跳发送成功
+[12-11 22:23:33] [DEBUG] 心跳发送成功
+[12-11 22:24:14] [DEBUG] 心跳发送成功
+[12-11 22:24:55] [DEBUG] 心跳发送成功
+[12-11 22:25:37] [DEBUG] 心跳发送成功
+[12-11 22:25:59] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 22:25:59] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 22:25:59] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 22:25:59] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 22:25:59] [INFO] 连接成功，机器人开始运行
+[12-11 22:26:00] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 22:26:41] [DEBUG] 心跳发送成功
+[12-11 22:27:22] [DEBUG] 心跳发送成功
+[12-11 22:28:03] [DEBUG] 心跳发送成功
+[12-11 22:28:44] [DEBUG] 心跳发送成功
+[12-11 22:29:26] [DEBUG] 心跳发送成功
+[12-11 22:30:07] [DEBUG] 心跳发送成功
+[12-11 22:30:48] [DEBUG] 心跳发送成功
+[12-11 22:31:30] [DEBUG] 心跳发送成功
+[12-11 22:32:11] [DEBUG] 心跳发送成功
+[12-11 22:32:52] [DEBUG] 心跳发送成功
+[12-11 22:33:33] [DEBUG] 心跳发送成功
+[12-11 22:34:15] [DEBUG] 心跳发送成功
+[12-11 22:34:56] [DEBUG] 心跳发送成功
+[12-11 22:35:37] [DEBUG] 心跳发送成功
+[12-11 22:36:18] [DEBUG] 心跳发送成功
+[12-11 22:37:00] [DEBUG] 心跳发送成功
+[12-11 22:37:41] [DEBUG] 心跳发送成功
+[12-11 22:38:22] [DEBUG] 心跳发送成功
+[12-11 22:39:03] [DEBUG] 心跳发送成功
+[12-11 22:39:45] [DEBUG] 心跳发送成功
+[12-11 22:40:26] [DEBUG] 心跳发送成功
+[12-11 22:41:07] [DEBUG] 心跳发送成功
+[12-11 22:41:48] [DEBUG] 心跳发送成功
+[12-11 22:42:30] [DEBUG] 心跳发送成功
+[12-11 22:43:11] [DEBUG] 心跳发送成功
+[12-11 22:43:52] [DEBUG] 心跳发送成功
+[12-11 22:44:33] [DEBUG] 心跳发送成功
+[12-11 22:45:15] [DEBUG] 心跳发送成功
+[12-11 22:45:56] [DEBUG] 心跳发送成功
+[12-11 22:46:37] [DEBUG] 心跳发送成功
+[12-11 22:47:18] [DEBUG] 心跳发送成功
+[12-11 22:48:00] [DEBUG] 心跳发送成功
+[12-11 22:48:41] [DEBUG] 心跳发送成功
+[12-11 22:49:22] [DEBUG] 心跳发送成功
+[12-11 22:50:03] [DEBUG] 心跳发送成功
+[12-11 22:50:45] [DEBUG] 心跳发送成功
+[12-11 22:51:26] [DEBUG] 心跳发送成功
+[12-11 22:52:07] [DEBUG] 心跳发送成功
+[12-11 22:52:48] [DEBUG] 心跳发送成功
+[12-11 22:53:30] [DEBUG] 心跳发送成功
+[12-11 22:54:11] [DEBUG] 心跳发送成功
+[12-11 22:54:52] [DEBUG] 心跳发送成功
+[12-11 22:55:33] [DEBUG] 心跳发送成功
+[12-11 22:55:59] [WARNING] BOT_WS链接已断开，正在尝试重连……
+[12-11 22:56:00] [INFO] 重连成功，机器人继续运行
+[12-11 22:56:41] [DEBUG] 心跳发送成功
+[12-11 22:57:22] [DEBUG] 心跳发送成功
+[12-11 22:58:04] [DEBUG] 心跳发送成功
+[12-11 22:58:45] [DEBUG] 心跳发送成功
+[12-11 22:59:26] [DEBUG] 心跳发送成功
+[12-11 23:00:07] [DEBUG] 心跳发送成功
+[12-11 23:00:49] [DEBUG] 心跳发送成功
+[12-11 23:01:30] [DEBUG] 心跳发送成功
+[12-11 23:02:11] [DEBUG] 心跳发送成功
+[12-11 23:02:52] [DEBUG] 心跳发送成功
+[12-11 23:03:34] [DEBUG] 心跳发送成功
+[12-11 23:04:15] [DEBUG] 心跳发送成功
+[12-11 23:04:56] [DEBUG] 心跳发送成功
+[12-11 23:05:37] [DEBUG] 心跳发送成功
+[12-11 23:06:19] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 23:06:19] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 23:06:19] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 23:06:20] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 23:06:20] [INFO] 连接成功，机器人开始运行
+[12-11 23:06:20] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 23:07:01] [DEBUG] 心跳发送成功
+[12-11 23:07:32] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 23:07:32] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 23:07:32] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 23:07:33] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 23:07:33] [INFO] 连接成功，机器人开始运行
+[12-11 23:07:33] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 23:08:15] [DEBUG] 心跳发送成功
+[12-11 23:08:41] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-11 23:08:41] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-11 23:08:56] [DEBUG] 心跳发送成功
+[12-11 23:09:37] [DEBUG] 心跳发送成功
+[12-11 23:09:56] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-11 23:09:56] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-11 23:10:18] [DEBUG] 心跳发送成功
+[12-11 23:10:32] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-11 23:10:32] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-11 23:10:59] [DEBUG] 心跳发送成功
+[12-11 23:11:41] [DEBUG] 心跳发送成功
+[12-11 23:12:22] [DEBUG] 心跳发送成功
+[12-11 23:12:28] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-11 23:12:28] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-11 23:13:03] [DEBUG] 心跳发送成功
+[12-11 23:13:09] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 23:13:09] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 23:13:09] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 23:13:09] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 23:13:09] [INFO] 连接成功，机器人开始运行
+[12-11 23:13:10] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 23:14:13] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 23:14:13] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 23:14:13] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 23:14:13] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 23:14:13] [INFO] 连接成功，机器人开始运行
+[12-11 23:14:14] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 23:14:55] [DEBUG] 心跳发送成功
+[12-11 23:15:07] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 23:15:07] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 23:15:07] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 23:15:07] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 23:15:07] [INFO] 连接成功，机器人开始运行
+[12-11 23:15:08] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 23:15:49] [DEBUG] 心跳发送成功
+[12-11 23:16:30] [DEBUG] 心跳发送成功
+[12-11 23:17:11] [DEBUG] 心跳发送成功
+[12-11 23:17:52] [DEBUG] 心跳发送成功
+[12-11 23:18:34] [DEBUG] 心跳发送成功
+[12-11 23:18:38] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 23:18:38] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 23:18:38] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 23:18:39] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 23:18:39] [INFO] 连接成功，机器人开始运行
+[12-11 23:18:39] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 23:19:20] [DEBUG] 心跳发送成功
+[12-11 23:19:54] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 23:19:54] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 23:19:54] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 23:19:54] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 23:19:55] [INFO] 连接成功，机器人开始运行
+[12-11 23:19:55] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 23:20:03] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-11 23:20:03] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-11 23:20:36] [DEBUG] 心跳发送成功
+[12-11 23:21:17] [DEBUG] 心跳发送成功
+[12-11 23:21:36] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-11 23:21:36] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-11 23:21:42] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-11 23:21:42] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-11 23:21:58] [DEBUG] 心跳发送成功
+[12-11 23:22:40] [DEBUG] 心跳发送成功
+[12-11 23:23:21] [DEBUG] 心跳发送成功
+[12-11 23:24:02] [DEBUG] 心跳发送成功
+[12-11 23:24:43] [DEBUG] 心跳发送成功
+[12-11 23:25:25] [DEBUG] 心跳发送成功
+[12-11 23:26:06] [DEBUG] 心跳发送成功
+[12-11 23:26:47] [DEBUG] 心跳发送成功
+[12-11 23:30:01] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 23:30:01] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 23:30:01] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 23:30:01] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 23:30:02] [INFO] 连接成功，机器人开始运行
+[12-11 23:30:02] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 23:30:43] [DEBUG] 心跳发送成功
+[12-11 23:31:24] [DEBUG] 心跳发送成功
+[12-11 23:32:05] [DEBUG] 心跳发送成功
+[12-11 23:32:47] [DEBUG] 心跳发送成功
+[12-11 23:33:06] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 23:33:06] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 23:33:06] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 23:33:07] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 23:33:07] [INFO] 连接成功，机器人开始运行
+[12-11 23:33:07] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 23:33:48] [DEBUG] 心跳发送成功
+[12-11 23:34:30] [DEBUG] 心跳发送成功
+[12-11 23:34:36] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-11 23:34:36] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-11 23:35:11] [DEBUG] 心跳发送成功
+[12-11 23:35:52] [DEBUG] 心跳发送成功
+[12-11 23:36:33] [DEBUG] 心跳发送成功
+[12-11 23:37:15] [DEBUG] 心跳发送成功
+[12-11 23:37:56] [DEBUG] 心跳发送成功
+[12-11 23:38:05] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-11 23:38:05] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-11 23:38:37] [DEBUG] 心跳发送成功
+[12-11 23:39:18] [DEBUG] 心跳发送成功
+[12-11 23:39:39] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 23:39:39] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 23:39:39] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 23:39:40] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 23:39:40] [INFO] 连接成功，机器人开始运行
+[12-11 23:39:40] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 23:39:47] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-11 23:39:47] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-11 23:39:59] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-11 23:39:59] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-11 23:40:10] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-11 23:40:10] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-11 23:40:21] [DEBUG] 心跳发送成功
+[12-11 23:41:03] [DEBUG] 心跳发送成功
+[12-11 23:41:10] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 23:41:10] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 23:41:10] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 23:41:10] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 23:41:11] [INFO] 连接成功，机器人开始运行
+[12-11 23:41:11] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 23:41:25] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-11 23:41:25] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-11 23:41:52] [DEBUG] 心跳发送成功
+[12-11 23:42:33] [DEBUG] 心跳发送成功
+[12-11 23:43:14] [DEBUG] 心跳发送成功
+[12-11 23:43:56] [DEBUG] 心跳发送成功
+[12-11 23:44:37] [DEBUG] 心跳发送成功
+[12-11 23:44:50] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 23:44:50] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 23:44:50] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 23:44:50] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 23:44:50] [INFO] 连接成功，机器人开始运行
+[12-11 23:44:51] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 23:45:32] [DEBUG] 心跳发送成功
+[12-11 23:46:13] [DEBUG] 心跳发送成功
+[12-11 23:46:42] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 23:46:42] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 23:46:42] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 23:46:43] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 23:46:43] [INFO] 连接成功，机器人开始运行
+[12-11 23:46:43] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 23:47:24] [DEBUG] 心跳发送成功
+[12-11 23:48:06] [DEBUG] 心跳发送成功
+[12-11 23:48:47] [DEBUG] 心跳发送成功
+[12-11 23:49:28] [DEBUG] 心跳发送成功
+[12-11 23:50:09] [DEBUG] 心跳发送成功
+[12-11 23:50:51] [DEBUG] 心跳发送成功
+[12-11 23:51:00] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 23:51:00] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 23:51:00] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 23:51:00] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 23:51:01] [INFO] 连接成功，机器人开始运行
+[12-11 23:51:01] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 23:51:42] [DEBUG] 心跳发送成功
+[12-11 23:52:23] [DEBUG] 心跳发送成功
+[12-11 23:53:05] [DEBUG] 心跳发送成功
+[12-11 23:53:18] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 23:53:18] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 23:53:18] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 23:53:18] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 23:53:19] [INFO] 连接成功，机器人开始运行
+[12-11 23:53:19] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 23:54:00] [DEBUG] 心跳发送成功
+[12-11 23:54:41] [DEBUG] 心跳发送成功
+[12-11 23:55:22] [DEBUG] 心跳发送成功
+[12-11 23:56:04] [DEBUG] 心跳发送成功
+[12-11 23:56:45] [DEBUG] 心跳发送成功
+[12-11 23:57:26] [DEBUG] 心跳发送成功
+[12-11 23:58:07] [DEBUG] 心跳发送成功
+[12-11 23:58:32] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 23:58:32] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 23:58:32] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 23:58:32] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 23:58:32] [INFO] 连接成功，机器人开始运行
+[12-11 23:58:33] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 23:58:44] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-11 23:58:44] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-11 23:59:14] [DEBUG] 心跳发送成功
+[12-11 23:59:55] [DEBUG] 心跳发送成功

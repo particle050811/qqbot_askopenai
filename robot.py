@@ -65,7 +65,16 @@ def is_at(users):
             return True
     return False
 
-
+def is_question(msg):
+    que=get_task('question.txt')
+    ans=ask_openai(que,msg)
+    #print(ans)
+    #print(ans=='是')
+    if ('是' in ans):
+        #print('是问句')
+        return True
+    #print('不是是问句')
+    return False
 
 
 
@@ -78,11 +87,24 @@ bot = BOT(bot_id='102070552', bot_token='qHAvc3v8Me2XvIdspk4MgWPcEcAsN2A3', is_p
 def deliver(data: Model.MESSAGE):   # 创建接收消息事件的函数
     #task=get_task('readme.txt')
 
-    if (is_at(data.mentions)):
+    if ('mentions' in data.__dict__ and is_at(data.mentions)):
         task=get_task('reply.txt')
         ans='<@'+data.author.id+'>'
         ans=ans+ask_openai(task,data.treated_msg)
         data.reply(ans,message_reference_id=data.id)
+    else:
+        if (is_question(data.treated_msg)):
+            ans='<@'+data.author.id+'>'+'我是频道管理员，如果你有频道相关问题。可以@我并附上问题，我会尽力为你解答。'
+            data.reply(ans,message_reference_id=data.id)
+
+'''
+@bot.bind_audit()
+def msg_function(data: Model.MESSAGE_AUDIT):
+    if (data.t=='MESSAGE_AUDIT_REJECT'):
+        print('你没过审核\n')
+    else:
+        print('你过审核了\n')
+'''
 
 
 if __name__ == '__main__':
