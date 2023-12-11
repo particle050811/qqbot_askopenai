@@ -1,0 +1,24 @@
+[12-11 10:52:30] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-11 10:52:30] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-11 10:52:30] [INFO] 消息（所有消息）接收函数订阅成功
+[12-11 10:52:31] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-11 10:52:32] [INFO] 连接成功，机器人开始运行
+[12-11 10:52:32] [INFO] 机器人频道用户ID：16339539897453438804
+[12-11 10:53:13] [DEBUG] 心跳发送成功
+[12-11 10:53:55] [DEBUG] 心跳发送成功
+[12-11 10:54:36] [DEBUG] 心跳发送成功
+[12-11 10:55:04] [ERROR] ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))"))
+[12-11 10:55:04] [ERROR] [error:ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 513, in send
+[12-11 10:55:17] [DEBUG] 心跳发送成功
+[12-11 10:55:58] [DEBUG] 心跳发送成功
+[12-11 10:56:40] [DEBUG] 心跳发送成功
+[12-11 10:57:21] [DEBUG] 心跳发送成功
+[12-11 10:58:02] [DEBUG] 心跳发送成功
+[12-11 10:58:43] [DEBUG] 心跳发送成功
+[12-11 10:59:25] [DEBUG] 心跳发送成功
+[12-11 11:00:06] [DEBUG] 心跳发送成功
+[12-11 11:00:47] [DEBUG] 心跳发送成功
+[12-11 11:01:28] [DEBUG] 心跳发送成功
+[12-11 11:02:10] [DEBUG] 心跳发送成功
+[12-11 11:02:51] [DEBUG] 心跳发送成功
+[12-11 11:03:37] [DEBUG] 心跳发送成功
