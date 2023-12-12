@@ -15,7 +15,7 @@ def ask_openai(task,question):
     #user_ask=input()
 
     data = {
-        "max_tokens": 1200,
+        "max_tokens": 900,
         "model": "gpt-3.5-turbo",
         "temperature": 0.8,
         "top_p": 1,
@@ -39,7 +39,7 @@ def ask_openai(task,question):
 
     # 解析JSON字符串
     data = json.loads(result)
-
+    #print(data)
     # 定位到我们想要的信息
     content = data["choices"][0]["message"]["content"]
 

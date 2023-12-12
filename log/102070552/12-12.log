@@ -1,1 +1,58 @@
 [12-12 00:00:36] [DEBUG] 心跳发送成功
+[12-12 21:25:08] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-12 21:25:08] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-12 21:25:08] [INFO] 消息（所有消息）接收函数订阅成功
+[12-12 21:25:08] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-12 21:25:08] [INFO] 连接成功，机器人开始运行
+[12-12 21:25:09] [INFO] 机器人频道用户ID：16339539897453438804
+[12-12 21:25:48] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-12 21:25:48] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-12 21:25:50] [DEBUG] 心跳发送成功
+[12-12 21:26:09] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-12 21:26:09] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-12 21:26:31] [DEBUG] 心跳发送成功
+[12-12 21:26:45] [ERROR] KeyError('choices')
+[12-12 21:26:45] [ERROR] [error:KeyError('choices')] File "d:\code\qqbot_askopenai\robot.py", line 44, in ask_openai
+[12-12 21:27:12] [DEBUG] 心跳发送成功
+[12-12 21:27:57] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-12 21:27:57] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-12 21:27:57] [INFO] 消息（所有消息）接收函数订阅成功
+[12-12 21:27:57] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-12 21:27:58] [INFO] 连接成功，机器人开始运行
+[12-12 21:27:58] [INFO] 机器人频道用户ID：16339539897453438804
+[12-12 21:28:19] [ERROR] KeyError('choices')
+[12-12 21:28:19] [ERROR] [error:KeyError('choices')] File "d:\code\qqbot_askopenai\robot.py", line 44, in ask_openai
+[12-12 21:28:40] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-12 21:28:40] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-12 21:28:40] [INFO] 消息（所有消息）接收函数订阅成功
+[12-12 21:28:40] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-12 21:28:41] [INFO] 连接成功，机器人开始运行
+[12-12 21:28:41] [INFO] 机器人频道用户ID：16339539897453438804
+[12-12 21:28:54] [ERROR] KeyError('choices')
+[12-12 21:28:54] [ERROR] [error:KeyError('choices')] File "d:\code\qqbot_askopenai\robot.py", line 44, in ask_openai
+[12-12 21:29:22] [DEBUG] 心跳发送成功
+[12-12 21:29:38] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-12 21:29:38] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-12 21:29:38] [INFO] 消息（所有消息）接收函数订阅成功
+[12-12 21:29:39] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-12 21:29:39] [INFO] 连接成功，机器人开始运行
+[12-12 21:29:39] [INFO] 机器人频道用户ID：16339539897453438804
+[12-12 21:30:20] [DEBUG] 心跳发送成功
+[12-12 21:30:52] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-12 21:30:52] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-12 21:30:52] [INFO] 消息（所有消息）接收函数订阅成功
+[12-12 21:30:52] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-12 21:30:52] [INFO] 连接成功，机器人开始运行
+[12-12 21:30:53] [INFO] 机器人频道用户ID：16339539897453438804
+[12-12 21:31:34] [DEBUG] 心跳发送成功
+[12-12 21:32:15] [DEBUG] 心跳发送成功
+[12-12 21:32:56] [DEBUG] 心跳发送成功
+[12-12 21:33:38] [DEBUG] 心跳发送成功
+[12-12 21:34:19] [DEBUG] 心跳发送成功
+[12-12 21:35:00] [DEBUG] 心跳发送成功
+[12-12 21:36:11] [INFO] 已开启沙箱环境，发送消息时将频道方将自动添加[sandbox]字样，如需关闭请传参is_sandbox=False
+[12-12 21:36:11] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-12 21:36:11] [INFO] 消息（所有消息）接收函数订阅成功
+[12-12 21:36:12] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
+[12-12 21:36:12] [INFO] 连接成功，机器人开始运行
+[12-12 21:36:12] [INFO] 机器人频道用户ID：16339539897453438804
