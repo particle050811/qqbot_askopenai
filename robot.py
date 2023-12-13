@@ -76,12 +76,7 @@ def is_question(msg):
     #print('不是是问句')
     return False
 
-
-
 bot = BOT(bot_id='102070552', bot_token='qHAvc3v8Me2XvIdspk4MgWPcEcAsN2A3', is_private=True, is_sandbox=False)   # 实例化SDK核心类
-
-
-
 
 @bot.bind_msg()   # 绑定接收消息事件的函数
 def deliver(data: Model.MESSAGE):   # 创建接收消息事件的函数
