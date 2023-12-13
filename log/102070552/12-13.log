@@ -57,3 +57,118 @@
 [12-13 17:16:34] [DEBUG] [机器人ws地址] wss://sandbox.api.sgroup.qq.com/websocket
 [12-13 17:16:34] [INFO] 连接成功，机器人开始运行
 [12-13 17:16:34] [INFO] 机器人频道用户ID：16339539897453438804
+[12-13 17:41:24] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-13 17:41:24] [INFO] 消息（所有消息）接收函数订阅成功
+[12-13 17:41:24] [DEBUG] [机器人ws地址] wss://api.sgroup.qq.com/websocket
+[12-13 17:41:24] [INFO] 连接成功，机器人开始运行
+[12-13 17:41:25] [INFO] 机器人频道用户ID：16339539897453438804
+[12-13 17:42:06] [DEBUG] 心跳发送成功
+[12-13 17:42:47] [DEBUG] 心跳发送成功
+[12-13 17:43:28] [DEBUG] 心跳发送成功
+[12-13 17:44:09] [DEBUG] 心跳发送成功
+[12-13 17:44:51] [DEBUG] 心跳发送成功
+[12-13 17:45:19] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-13 17:45:19] [INFO] 消息（所有消息）接收函数订阅成功
+[12-13 17:45:20] [DEBUG] [机器人ws地址] wss://api.sgroup.qq.com/websocket
+[12-13 17:45:20] [INFO] 连接成功，机器人开始运行
+[12-13 17:45:20] [INFO] 机器人频道用户ID：16339539897453438804
+[12-13 17:46:01] [DEBUG] 心跳发送成功
+[12-13 17:46:42] [DEBUG] 心跳发送成功
+[12-13 17:47:24] [DEBUG] 心跳发送成功
+[12-13 17:48:05] [DEBUG] 心跳发送成功
+[12-13 17:48:46] [DEBUG] 心跳发送成功
+[12-13 17:49:27] [DEBUG] 心跳发送成功
+[12-13 17:50:09] [DEBUG] 心跳发送成功
+[12-13 17:50:50] [DEBUG] 心跳发送成功
+[12-13 17:51:31] [DEBUG] 心跳发送成功
+[12-13 19:04:20] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-13 19:04:20] [INFO] 消息（所有消息）接收函数订阅成功
+[12-13 19:04:20] [DEBUG] [机器人ws地址] wss://api.sgroup.qq.com/websocket
+[12-13 19:04:20] [INFO] 连接成功，机器人开始运行
+[12-13 19:04:20] [INFO] 机器人频道用户ID：16339539897453438804
+[12-13 19:05:02] [DEBUG] 心跳发送成功
+[12-13 19:05:43] [DEBUG] 心跳发送成功
+[12-13 19:06:24] [DEBUG] 心跳发送成功
+[12-13 19:07:05] [DEBUG] 心跳发送成功
+[12-13 19:07:47] [DEBUG] 心跳发送成功
+[12-13 19:08:28] [DEBUG] 心跳发送成功
+[12-13 19:09:09] [DEBUG] 心跳发送成功
+[12-13 19:09:50] [DEBUG] 心跳发送成功
+[12-13 19:10:32] [DEBUG] 心跳发送成功
+[12-13 19:11:13] [DEBUG] 心跳发送成功
+[12-13 19:11:54] [DEBUG] 心跳发送成功
+[12-13 19:12:35] [DEBUG] 心跳发送成功
+[12-13 19:13:17] [DEBUG] 心跳发送成功
+[12-13 19:13:58] [DEBUG] 心跳发送成功
+[12-13 19:14:39] [DEBUG] 心跳发送成功
+[12-13 19:15:21] [DEBUG] 心跳发送成功
+[12-13 19:16:02] [DEBUG] 心跳发送成功
+[12-13 19:16:43] [DEBUG] 心跳发送成功
+[12-13 19:17:24] [DEBUG] 心跳发送成功
+[12-13 19:18:06] [DEBUG] 心跳发送成功
+[12-13 19:18:47] [DEBUG] 心跳发送成功
+[12-13 19:19:28] [DEBUG] 心跳发送成功
+[12-13 19:20:09] [DEBUG] 心跳发送成功
+[12-13 19:20:51] [DEBUG] 心跳发送成功
+[12-13 19:21:32] [DEBUG] 心跳发送成功
+[12-13 19:22:13] [DEBUG] 心跳发送成功
+[12-13 19:22:54] [DEBUG] 心跳发送成功
+[12-13 19:23:36] [DEBUG] 心跳发送成功
+[12-13 19:24:17] [DEBUG] 心跳发送成功
+[12-13 19:24:58] [DEBUG] 心跳发送成功
+[12-13 21:35:42] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-13 21:35:42] [INFO] 消息（所有消息）接收函数订阅成功
+[12-13 21:35:42] [DEBUG] [机器人ws地址] wss://api.sgroup.qq.com/websocket
+[12-13 21:35:43] [INFO] 连接成功，机器人开始运行
+[12-13 21:35:43] [INFO] 机器人频道用户ID：16339539897453438804
+[12-13 21:36:24] [DEBUG] 心跳发送成功
+[12-13 21:36:29] [ERROR] SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))
+[12-13 21:36:29] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
+[12-13 21:37:05] [DEBUG] 心跳发送成功
+[12-13 21:37:46] [DEBUG] 心跳发送成功
+[12-13 21:37:50] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-13 21:37:50] [INFO] 消息（所有消息）接收函数订阅成功
+[12-13 21:37:50] [DEBUG] [机器人ws地址] wss://api.sgroup.qq.com/websocket
+[12-13 21:37:51] [INFO] 连接成功，机器人开始运行
+[12-13 21:37:51] [INFO] 机器人频道用户ID：16339539897453438804
+[12-13 21:38:32] [DEBUG] 心跳发送成功
+[12-13 21:39:13] [DEBUG] 心跳发送成功
+[12-13 21:39:55] [DEBUG] 心跳发送成功
+[12-13 21:40:16] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-13 21:40:16] [INFO] 消息（所有消息）接收函数订阅成功
+[12-13 21:40:16] [DEBUG] [机器人ws地址] wss://api.sgroup.qq.com/websocket
+[12-13 21:40:16] [INFO] 连接成功，机器人开始运行
+[12-13 21:40:16] [INFO] 机器人频道用户ID：16339539897453438804
+[12-13 21:40:58] [DEBUG] 心跳发送成功
+[12-13 21:41:39] [DEBUG] 心跳发送成功
+[12-13 21:42:20] [DEBUG] 心跳发送成功
+[12-13 21:43:01] [DEBUG] 心跳发送成功
+[12-13 21:43:43] [DEBUG] 心跳发送成功
+[12-13 21:44:24] [DEBUG] 心跳发送成功
+[12-13 21:45:05] [DEBUG] 心跳发送成功
+[12-13 21:45:46] [DEBUG] 心跳发送成功
+[12-13 21:46:28] [DEBUG] 心跳发送成功
+[12-13 21:47:09] [DEBUG] 心跳发送成功
+[12-13 21:47:50] [DEBUG] 心跳发送成功
+[12-13 21:48:31] [DEBUG] 心跳发送成功
+[12-13 21:49:13] [DEBUG] 心跳发送成功
+[12-13 21:49:54] [DEBUG] 心跳发送成功
+[12-13 21:50:35] [DEBUG] 心跳发送成功
+[12-13 21:51:16] [DEBUG] 心跳发送成功
+[12-13 21:51:58] [DEBUG] 心跳发送成功
+[12-13 21:52:39] [DEBUG] 心跳发送成功
+[12-13 21:53:20] [DEBUG] 心跳发送成功
+[12-13 21:53:57] [INFO] Session Manager 读取了 D:\code\qqbot_askopenai\session_data 的数据
+[12-13 21:53:57] [INFO] 消息（所有消息）接收函数订阅成功
+[12-13 21:53:57] [DEBUG] [机器人ws地址] wss://api.sgroup.qq.com/websocket
+[12-13 21:53:57] [INFO] 连接成功，机器人开始运行
+[12-13 21:53:57] [INFO] 机器人频道用户ID：16339539897453438804
+[12-13 21:54:39] [DEBUG] 心跳发送成功
+[12-13 21:55:20] [DEBUG] 心跳发送成功
+[12-13 21:56:01] [DEBUG] 心跳发送成功
+[12-13 21:56:42] [DEBUG] 心跳发送成功
+[12-13 21:57:24] [DEBUG] 心跳发送成功
+[12-13 21:58:05] [DEBUG] 心跳发送成功
+[12-13 21:58:46] [DEBUG] 心跳发送成功
+[12-13 21:59:27] [DEBUG] 心跳发送成功
+[12-13 22:00:09] [DEBUG] 心跳发送成功

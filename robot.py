@@ -43,7 +43,7 @@ def ask_openai(task,question):
     # 定位到我们想要的信息
     content = data["choices"][0]["message"]["content"]
 
-    #print(content)
+    #print(content+'\n')
     return content
 
 def get_task(taskname):
@@ -85,7 +85,7 @@ def deliver(data: Model.MESSAGE):   # 创建接收消息事件的函数
         return
     if ('角色持有' in data.treated_msg):
         return
-    #print(data.treated_msg)
+    #print(data.treated_msg+'\n')
     if ('mentions' in data.__dict__):
         if (is_at(data.mentions)):
             task=get_task('reply.txt')
