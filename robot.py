@@ -78,7 +78,7 @@ def is_question(msg):
 
 
 
-bot = BOT(bot_id='102070552', bot_token='qHAvc3v8Me2XvIdspk4MgWPcEcAsN2A3', is_private=True, is_sandbox=True)   # 实例化SDK核心类
+bot = BOT(bot_id='102070552', bot_token='qHAvc3v8Me2XvIdspk4MgWPcEcAsN2A3', is_private=True, is_sandbox=False)   # 实例化SDK核心类
 
 
 
