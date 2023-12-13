@@ -15,7 +15,7 @@ def ask_openai(task,question):
     #user_ask=input()
 
     data = {
-        "max_tokens": 900,
+        "max_tokens": 800,
         "model": "gpt-3.5-turbo",
         "temperature": 0.8,
         "top_p": 1,
@@ -86,16 +86,23 @@ bot = BOT(bot_id='102070552', bot_token='qHAvc3v8Me2XvIdspk4MgWPcEcAsN2A3', is_p
 @bot.bind_msg()   # 绑定接收消息事件的函数
 def deliver(data: Model.MESSAGE):   # 创建接收消息事件的函数
     #task=get_task('readme.txt')
-
-    if ('mentions' in data.__dict__ and is_at(data.mentions)):
-        task=get_task('reply.txt')
-        ans='<@'+data.author.id+'>'
-        ans=ans+ask_openai(task,data.treated_msg)
-        data.reply(ans,message_reference_id=data.id)
+    if ('深渊使用率' in data.treated_msg):
+        return
+    if ('角色持有' in data.treated_msg):
+        return
+    #print(data.treated_msg)
+    if ('mentions' in data.__dict__):
+        if (is_at(data.mentions)):
+            task=get_task('reply.txt')
+            ans='<@'+data.author.id+'>'
+            ans=ans+ask_openai(task,data.treated_msg)
+            data.reply(ans,message_reference_id=data.id) 
+    '''
     else:
         if (is_question(data.treated_msg)):
             ans='<@'+data.author.id+'>'+'我是频道管理员，如果你有频道相关问题。可以@我并附上问题，我会尽力为你解答。'
             data.reply(ans,message_reference_id=data.id)
+    '''
 
 '''
 @bot.bind_audit()
