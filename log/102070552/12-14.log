@@ -246,3 +246,4 @@
 [12-14 21:30:12] [ERROR] [error:SSLError(MaxRetryError("HTTPSConnectionPool(host='api.openai-hk.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))"))] File "C:\Users\particle\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 517, in send
 [12-14 21:30:44] [DEBUG] 心跳发送成功
 [12-14 21:31:25] [DEBUG] 心跳发送成功
+[12-14 21:32:07] [DEBUG] 心跳发送成功
