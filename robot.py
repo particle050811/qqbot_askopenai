@@ -15,8 +15,8 @@ def ask_openai(task,question):
     #user_ask=input()
 
     data = {
-        "max_tokens": 800,
-        "model": "gpt-3.5-turbo",
+        "max_tokens": 2000,
+        "model": "gpt-3.5-turbo-1106",
         "temperature": 0.8,
         "top_p": 1,
         "presence_penalty": 1,
@@ -43,7 +43,7 @@ def ask_openai(task,question):
     # 定位到我们想要的信息
     content = data["choices"][0]["message"]["content"]
 
-    #print(content+'\n')
+    print(content+'\n')
     return content
 
 def get_task(taskname):
@@ -82,10 +82,12 @@ bot = BOT(bot_id='102070552', bot_token='qHAvc3v8Me2XvIdspk4MgWPcEcAsN2A3', is_p
 def deliver(data: Model.MESSAGE):   # 创建接收消息事件的函数
     #task=get_task('readme.txt')
     if ('深渊使用率' in data.treated_msg):
+        #print('A\n')
         return
     if ('角色持有' in data.treated_msg):
+        #print('B\n')
         return
-    #print(data.treated_msg+'\n')
+    print(data.treated_msg+'\n')
     if ('mentions' in data.__dict__):
         if (is_at(data.mentions)):
             task=get_task('reply.txt')
